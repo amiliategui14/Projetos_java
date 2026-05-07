@@ -1,4 +1,4 @@
-package Heranca;
+package heranca;
 class Jarvis {
     String comando;
     public void ativar() {
