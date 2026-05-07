@@ -6,6 +6,7 @@ class Jarvis {
     }
 }
 class Usuario extends Jarvis {
+    @Override
     public void ativar(){
         super.ativar();
         System.out.println("Ativar alarme de segurança.\nJarvis: Entendido. Sistema de alarme ativado!");
