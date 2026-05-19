@@ -25,13 +25,13 @@ public class Dados extends Carro {
     }
 
     //Set
-    public void setModelo() {
+    public void setModelo(String modelo) {
         this.modelo = modelo;
     }
-    public void setDono() {
+    public void setDono(String dono) {
         this.dono = dono;
     }
-    public void setPlaca() {
+    public void setPlaca(String placa) {
         this.placa = placa;
     }
 

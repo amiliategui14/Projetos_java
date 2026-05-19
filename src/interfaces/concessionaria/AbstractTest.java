@@ -1,6 +1,6 @@
 package interfaces.concessionaria;
 
-public class AbstactTest {
+public class AbstractTest {
     public static void main(String[] args) {
         
         Caminhao caminhao = new Caminhao(1000, "Mercedes", "Manoel da Silva", "1JK78");
