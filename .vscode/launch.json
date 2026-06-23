@@ -1,0 +1,90 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "RelogioDigital",
+            "request": "launch",
+            "mainClass": "projetos.RelogioDigital",
+            "projectName": "Projetos_java_e3bda743",
+             "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ProjetoRelogioDigital",
+            "request": "launch",
+            "mainClass": "projetos.ProjetoRelogioDigital",
+            "projectName": "Projetos_java_e3bda743",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraIMC",
+            "request": "launch",
+            "mainClass": "projetos.CalculadoraIMC",
+            "projectName": "Projetos_java_e3bda743",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ExemploStreamming",
+            "request": "launch",
+            "mainClass": "estudos_java.interface_grafica.ExemploStreamming",
+            "projectName": "Projetos_java_e3bda743",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "ExemploLista",
+            "request": "launch",
+            "mainClass": "estudos_java.interface_grafica.ExemploLista",
+            "projectName": "Projetos_java_e3bda743",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "GridePane",
+            "request": "launch",
+            "mainClass": "estudos_java.interface_grafica.GridePane",
+            "projectName": "Projetos_java_e3bda743",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "estudos_java.interface_grafica.Main",
+            "projectName": "Projetos_java_e3bda743"
+        },
+        {
+            "type": "java",
+            "name": "Layouts",
+            "request": "launch",
+            "mainClass": "estudos_java.interface_grafica.Layouts",
+            "projectName": "Projetos_java_e3bda743",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Controles",
+            "request": "launch",
+            "mainClass": "interface_grafica.Controles",
+            "projectName": "Projetos_java_e3bda743",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Jarvis",
+            "request": "launch",
+            "mainClass": "programacao_funcional.Jarvis",
+            "projectName": "Projetos_java_e3bda743"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaFX",
+            "request": "launch",
+            "mainClass": "interface_grafica.Main",
+            "vmArgs": "--module-path \"C:/Java/javafx-sdk-22.0.1/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
